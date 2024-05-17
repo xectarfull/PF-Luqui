@@ -1,0 +1,14 @@
+$color1: red;
+$color2: blue;
+$color3: rgb(235, 9, 9);
+
+body{
+    background-color: orange;
+}
+p{
+    color: $color3;
+    border: 5px solid $color3;
+}
+h1{
+    color: $color2;
+}
