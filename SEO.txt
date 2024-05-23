@@ -1,1 +1,4 @@
 1. Optimize algunas imagenes con tinypng.
+2. Pase las paginas de la preentrega anterior para seguir trabajando encima.
+3. Agregue meta tags
+4. 

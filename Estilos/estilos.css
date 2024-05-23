@@ -38,4 +38,16 @@ h4 {
   font-family: Abrosia;
 }
 
+@media (max-width: 720px) {
+  header {
+    color: #574eff;
+  }
+}
+
+@media (max-width: 720px) {
+  main {
+    color: #f04eff;
+  }
+}
+
 /*# sourceMappingURL=estilos.css.map */
