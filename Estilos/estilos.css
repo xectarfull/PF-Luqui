@@ -1,22 +1,41 @@
 body {
-  background-color: orange;
+  background-color: darkgoldenrod;
 }
 
-p {
-  color: rgb(235, 9, 9);
-  border: 5px solid rgb(235, 9, 9);
+@font-face {
+  font-family: Abang;
+  src: url(../Assets/Abang.otf);
+}
+@font-face {
+  font-family: Abrosia;
+  src: url(../Assets/Abyssal\ Horrors.ttf);
+}
+nav {
+  font-family: Abang;
+}
+
+header {
+  font-family: Abrosia;
+}
+
+div.row {
+  font-family: Abrosia;
 }
 
 h1 {
-  color: blue;
+  font-family: Abrosia;
 }
 
 h2 {
-  color: rgb(235, 9, 9);
+  font-family: Abrosia;
 }
 
-h2 {
-  background-color: white;
+h3 {
+  font-family: Abrosia;
+}
+
+h4 {
+  font-family: Abrosia;
 }
 
 /*# sourceMappingURL=estilos.css.map */
