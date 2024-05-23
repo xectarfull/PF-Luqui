@@ -1,7 +1,7 @@
 $color1: red;
 $color2: blue;
 $color3: rgb(235, 9, 9);
-
+$color4: white;
 body{
     background-color: orange;
 }
@@ -11,4 +11,10 @@ p{
 }
 h1{
     color: $color2;
+}
+h2{
+    color: $color3;
+}
+h2{
+    background-color: $color4;
 }
