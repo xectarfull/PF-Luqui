@@ -3,3 +3,6 @@
 3. Agregue meta tags.
 4. Agregue media queries.
 5. Ultimo vistazo buscando errores de codigo/tipeo.
+6. Agregue un bucle
+7. Agregue un formulario en Contacto y otro en Subcribe
+8. Agregue reproductores de audio
