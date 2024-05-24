@@ -2,6 +2,7 @@ $color1: darkgoldenrod;
 $color2: #574eff;
 $color3: #f04eff;
 $color4: #fd586b;
+$color5: #58fdd1;
 body{
     background-color: $color1;
 }
@@ -44,4 +45,15 @@ main{
         color: $color3;
     }
 
+}
+$num-nav-items: 4;
+.navbar-nav {
+@for $i from 1 through $num-nav-items {
+    li:nth-child(#{$i}) {
+    transition: background-color 0.6s ease;
+    &:hover {
+        background-color: darken(rgb(253, 191, 5), 1%);
+    }
+    }
+}
 }
